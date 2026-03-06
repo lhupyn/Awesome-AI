@@ -35,6 +35,7 @@
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [DoaCam](https://doacam.com) | A 3D AI avatar you can video call — real-time voice, camera vision, persistent memory. Free, no sign-up, runs in the browser. |
 
 ## All-in-one tools
 | Awesome | Description |
